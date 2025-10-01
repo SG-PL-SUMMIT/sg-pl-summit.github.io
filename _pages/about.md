@@ -21,12 +21,12 @@ latest_posts:
 Welcome to the second SG Programming Languages Summit!
 The summit is an informal meeting for those based in Singapore with interests in programming languages research, broadly construed.
 
-## Logistics
+## logistics
 
 TBA
 
 
-## Call for Presentations
+## call for presentations
 
 We solicit presentations on programming languages research and related topics including, but not limited to, verification, proof theory, program synthesis, etc...  We also welcome proposals to hold small-scale hands-on tutorials or similar events at the summit.
 
