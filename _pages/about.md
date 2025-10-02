@@ -26,7 +26,7 @@ latest_posts:
 Welcome to the second SG Programming Languages Summit!
 The summit is an informal meeting for those based in Singapore with interests in programming languages research, broadly construed.
 
-## logistics & venue
+## time & venue
 
 - full day, Nov 24 2025 (exact times TBA)
 - Venue: Singapore Management University, Room TBA
