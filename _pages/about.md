@@ -35,7 +35,7 @@ Registration is required: (signuplink TBA)
 
 ### call for presentations
 
-We solicit **presentations on programming languages research and related topics** including, but not limited to, verification, proof theory, program synthesis, ...
+We solicit **presentations on programming languages research and related topics** including, but not limited to, verification, proof theory, program synthesis, etc.
 We also welcome proposals to hold **small-scale hands-on tutorials** or similar events at the summit.
 
 We hope that you will share your exciting PL-related research, use cases, or even new ideas seeking collaborators at the summit.
