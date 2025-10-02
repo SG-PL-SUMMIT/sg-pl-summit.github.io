@@ -21,12 +21,18 @@ latest_posts:
 Welcome to the second SG Programming Languages Summit!
 The summit is an informal meeting for those based in Singapore with interests in programming languages research, broadly construed.
 
-## logistics
+## logistics & venue
 
 TBA
 
 
-## call for presentations
+## participation
+
+The SG PL summit is open to participants at all levels across academia and industry and attendance is free-of-charge.
+
+(signuplink TBA)
+
+### call for presentations
 
 We solicit presentations on programming languages research and related topics including, but not limited to, verification, proof theory, program synthesis, etc...  We also welcome proposals to hold small-scale hands-on tutorials or similar events at the summit.
 
@@ -34,4 +40,7 @@ We hope that you will share your exciting PL-related research, use cases, or eve
 Students are particularly encouraged to present and solicit feedback on your research from the wider research community.
 
 We hope to accommodate all proposed talks, potentially with parallel tracks. All talks will be held in-person and each talk will be allocated approximately 20-30 minute slots.
-    
+
+## Schedule
+
+TBA
