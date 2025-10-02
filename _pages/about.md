@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 2nd edition, Nov XX 2025
+subtitle: 2nd edition, Nov 24 2025
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -23,10 +23,12 @@ The summit is an informal meeting for those based in Singapore with interests in
 
 ## logistics & venue
 
-TBA
+- full day, Nov 24 2025 (exact times TBA)
+- Venue: Singapore Management University, Room TBA
 
 
-## participation
+## call for participation
+### participation
 
 The SG PL summit is open to participants at all levels across academia and industry and attendance is free-of-charge.
 
@@ -39,8 +41,18 @@ We solicit presentations on programming languages research and related topics in
 We hope that you will share your exciting PL-related research, use cases, or even new ideas seeking collaborators at the summit.
 Students are particularly encouraged to present and solicit feedback on your research from the wider research community.
 
+(form to propose talk TBA)
+
 We hope to accommodate all proposed talks, potentially with parallel tracks. All talks will be held in-person and each talk will be allocated approximately 20-30 minute slots.
 
-## Schedule
+## schedule
 
 TBA
+
+## mailing list
+
+All SG PL Summit related communications will be made via the following [mailing list](https://groups.google.com/g/plsg).
+
+To join, please get in touch with **TBD**.
+
+This mailing list has very low traffic. If you have interests in programming languages research in Singapore, we encourage you to sign up.
