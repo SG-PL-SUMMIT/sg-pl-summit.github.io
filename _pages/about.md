@@ -52,7 +52,6 @@ TBA
 ## mailing list
 
 All SG PL Summit related communications will be made via the following [mailing list](https://groups.google.com/g/plsg).
-
 To join, please get in touch with **TBD**.
 
-This mailing list has very low traffic. If you have interests in programming languages research in Singapore, we encourage you to sign up.
+This mailing list has very low traffic. If you are interested in programming languages research in Singapore, we encourage you to sign up.
