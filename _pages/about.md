@@ -28,7 +28,6 @@ The summit is an informal meeting for those based in Singapore with interests in
 
 
 ## call for participation
-### participation
 
 The SG PL summit is **open to participants at all levels across academia and industry** and attendance is **free-of-charge**.
 
