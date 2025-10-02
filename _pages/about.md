@@ -57,6 +57,6 @@ TBA
 ## mailing list
 
 All SG PL Summit related communications will be made via the following [mailing list](https://groups.google.com/g/plsg).
-To join, please get in touch with **TBD**.
+To join, please get in touch with [Ilya Sergey](mailto:ilya@nus.edu.sg) or [Yong Kiam Tan](mailto:yongkiam.tan@ntu.edu.sg).
 
 This mailing list has very low traffic. If you are interested in programming languages research in Singapore, we encourage you to sign up.
