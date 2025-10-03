@@ -28,8 +28,9 @@ The summit is an informal meeting for those based in Singapore with interests in
 
 ## time & venue
 
-- full day, Nov 24 2025 (exact times TBA)
-- Venue: Singapore Management University, Room TBA
+- Nov 24 2025, 9am-5pm
+- Venue: Singapore Management University, Room SR B1-01 (Basement 1)
+- Address: [Yong Pung How School of Law,  55 Armenian St, Singapore 179943](https://maps.app.goo.gl/Wznb7x9fUHfq67h68)
 
 
 ## call for participation
