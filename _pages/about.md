@@ -32,6 +32,9 @@ The summit is an informal meeting for those based in Singapore with interests in
 - Venue: Singapore Management University, Room SR B1-01 (Basement 1)
 - Address: [Yong Pung How School of Law,  55 Armenian St, Singapore 179943](https://maps.app.goo.gl/Wznb7x9fUHfq67h68)
 
+## keynote
+
+The summit will feature a keynote by [Krishna S](https://www.cse.iitb.ac.in/~krishnas/) from IIT Bombay.
 
 ## call for participation
 
