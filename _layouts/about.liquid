@@ -16,6 +16,7 @@ layout: default
 
   <article>
 
+      {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
@@ -36,6 +37,7 @@ layout: default
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
       </div>
+      {% endif %}
 
 
     <div class="clearfix">{{ content }}</div>
@@ -43,20 +45,27 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
 
-    <h2>summit series</h2>
+    <h2>Summit Series</h2>
 
     <div class="news">
       <div class="table-responsive">
         <table class="table table-sm table-borderless">
           <tr>
+            <th scope="row" style="width: 10%">2026</th>
+            <td><a href="{{ '/' | relative_url }}">Third edition</a> organized by
+              <a href="https://manuelrigger.at/">Manuel Rigger</a> and
+              <a href="https://chengpeng-wang.github.io/">Chengpeng Wang</a>.
+            </td>
+          </tr>
+          <tr>
             <th scope="row" style="width: 10%">2025</th>
-            <td>This edition organized by
+            <td><a href="{{ '/2025/' | relative_url }}">Second edition</a> organized by
               <a href="https://www.comp.nus.edu.sg/~umathur/">Umang Mathur</a> and
               <a href="https://djordjezikelic.github.io/">Djordje Zikelic</a>, with help from
               <a href="https://michael-schwarz.github.io/">Michael Schwarz</a>.
@@ -64,7 +73,7 @@ layout: default
           </tr>
           <tr>
             <th scope="row" style="width: 10%">2024</th>
-            <td><a href="https://verse-lab.github.io/sg-pl-summit/">Inaugural edition</a> organized by
+            <td><a href="https://verse-lab.org/sg-pl-summit/">Inaugural edition</a> organized by
               <a href="https://ilyasergey.net/">Ilya Sergey</a> and
               <a href="https://tanyongkiam.github.io/">Yong Kiam Tan</a>, with website help from Yuxi Ling and Joe Watt.</td>
           </tr>
@@ -72,7 +81,7 @@ layout: default
       </div>
     </div>
 
-    <h2>steering committee</h2>
+    <h2>Steering Committee</h2>
     <div class="news">
       <div class="table-responsive">
         <table class="table table-sm table-borderless">
@@ -100,7 +109,7 @@ layout: default
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest Posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
@@ -108,7 +117,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
