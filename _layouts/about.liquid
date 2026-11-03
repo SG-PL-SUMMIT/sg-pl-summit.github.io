@@ -15,8 +15,7 @@ layout: default
   </header>
 
   <article>
-
-      {% if page.profile %}
+    {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
@@ -37,8 +36,7 @@ layout: default
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
       </div>
-      {% endif %}
-
+    {% endif %}
 
     <div class="clearfix">{{ content }}</div>
 
@@ -50,7 +48,6 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-
     <h2>Summit Series</h2>
 
     <div class="news">
@@ -58,24 +55,25 @@ layout: default
         <table class="table table-sm table-borderless">
           <tr>
             <th scope="row" style="width: 10%">2026</th>
-            <td><a href="{{ '/' | relative_url }}">Third edition</a> organized by
-              <a href="https://manuelrigger.at/">Manuel Rigger</a> and
+            <td>
+              <a href="{{ '/' | relative_url }}">Third edition</a> organized by <a href="https://manuelrigger.at/">Manuel Rigger</a> and
               <a href="https://chengpeng-wang.github.io/">Chengpeng Wang</a>.
             </td>
           </tr>
           <tr>
             <th scope="row" style="width: 10%">2025</th>
-            <td><a href="{{ '/2025/' | relative_url }}">Second edition</a> organized by
-              <a href="https://www.comp.nus.edu.sg/~umathur/">Umang Mathur</a> and
-              <a href="https://djordjezikelic.github.io/">Djordje Zikelic</a>, with help from
-              <a href="https://michael-schwarz.github.io/">Michael Schwarz</a>.
+            <td>
+              <a href="{{ '/2025/' | relative_url }}">Second edition</a> organized by
+              <a href="https://www.comp.nus.edu.sg/~umathur/">Umang Mathur</a> and <a href="https://djordjezikelic.github.io/">Djordje Zikelic</a>,
+              with help from <a href="https://michael-schwarz.github.io/">Michael Schwarz</a>.
             </td>
           </tr>
           <tr>
             <th scope="row" style="width: 10%">2024</th>
-            <td><a href="https://verse-lab.org/sg-pl-summit/">Inaugural edition</a> organized by
-              <a href="https://ilyasergey.net/">Ilya Sergey</a> and
-              <a href="https://tanyongkiam.github.io/">Yong Kiam Tan</a>, with website help from Yuxi Ling and Joe Watt.</td>
+            <td>
+              <a href="https://verse-lab.org/sg-pl-summit/">Inaugural edition</a> organized by <a href="https://ilyasergey.net/">Ilya Sergey</a> and
+              <a href="https://tanyongkiam.github.io/">Yong Kiam Tan</a>, with website help from Yuxi Ling and Joe Watt.
+            </td>
           </tr>
         </table>
       </div>
@@ -91,7 +89,7 @@ layout: default
           </tr>
           <tr>
             <th scope="row" style="width: 30%"><a href="https://ilyasergey.net/">Ilya Sergey</a></th>
-            <td>National University of Singapore </td>
+            <td>National University of Singapore</td>
           </tr>
           <tr>
             <th scope="row" style="width: 30%"><a href="https://tanyongkiam.github.io/">Yong Kiam Tan</a></th>
@@ -104,7 +102,6 @@ layout: default
         </table>
       </div>
     </div>
-
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
