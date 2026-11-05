@@ -28,6 +28,14 @@ Welcome to the Singapore Programming Languages Summit 2026!
 
 More details to follow.
 
+## Registration
+
+Registration is free, but all attendees must register.
+
+> **Registration deadline:** Friday, November 20, 2026
+
+<p><a class="btn btn-lg" role="button" href="https://forms.gle/Mwca5fHa552brmKF8" style="background-color: var(--global-theme-color); color: var(--global-bg-color);">Register to attend</a></p>
+
 ## Call for Presentations
 
 We welcome talks on programming languages research (broadly construed) from all career stages, including work in progress. No full paper is required.
