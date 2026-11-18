@@ -35,6 +35,50 @@ table {
   }
 }
 
+// Program tables on the about page
+.program-table {
+  margin-bottom: 1rem;
+
+  td,
+  th {
+    vertical-align: top;
+  }
+
+  td:first-child,
+  th:first-child {
+    white-space: nowrap;
+  }
+}
+
+@media (min-width: 577px) {
+  .program-detail td:nth-child(2) {
+    white-space: nowrap;
+  }
+}
+
+// On narrow screens, stack each talk's time, presenter, and title
+@media (max-width: 576px) {
+  .program-detail {
+    thead {
+      display: none;
+    }
+
+    tr {
+      display: block;
+      padding: 0.5rem 0;
+    }
+
+    td {
+      display: block;
+      border: none !important;
+    }
+
+    td:nth-child(2) {
+      font-weight: bold;
+    }
+  }
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
@@ -1421,5 +1465,33 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
+  }
+}
+
+// Sections whose deadlines have passed (e.g., a closed call for presentations)
+.section-closed {
+  &,
+  p,
+  li,
+  em,
+  span,
+  strong {
+    color: var(--global-text-color-light);
+  }
+
+  blockquote {
+    border-left-color: var(--global-divider-color);
+  }
+
+  a {
+    color: var(--global-text-color-light);
+    text-decoration: underline;
+  }
+
+  .btn.disabled {
+    background-color: var(--global-divider-color);
+    color: var(--global-text-color-light);
+    box-shadow: none;
+    cursor: not-allowed;
   }
 }
