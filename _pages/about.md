@@ -121,14 +121,14 @@ _Lunch will not be provided_, but there are many options nearby.
 
 <div class="program-table program-detail" markdown="1">
 
-| Time        | Presenter      | Talk                                                                           |
-| ----------- | -------------- | ------------------------------------------------------------------------------ |
-| 14:05–14:20 | Jules Poon     | Towards a Model of Effect and Coeffect Interactions                            |
-| 14:20–14:35 | Darius Foo     | Iris on Indirection Theory: Lightweight Higher-order Ghost State               |
-| 14:35–14:50 | David Trabish  | Proof-Logging Symbolic Execution                                               |
-| 14:50–15:05 | Wei-Lin Wu     | cake\_pb\_cp: A Formally Verified Checker for Proof-Logging Constraint Solvers |
-| 15:05–15:20 | Zhendong Ang   | Scenario Proofs for Verification of Distributed Protocols                      |
-| 15:20–15:35 | Linard Arquint | Foundational Automation for Security Proofs                                    |
+| Time        | Presenter      | Talk                                                                         |
+| ----------- | -------------- | ---------------------------------------------------------------------------- |
+| 14:05–14:20 | Jules Poon     | Towards a Model of Effect and Coeffect Interactions                          |
+| 14:20–14:35 | Darius Foo     | Iris on Indirection Theory: Lightweight Higher-order Ghost State             |
+| 14:35–14:50 | David Trabish  | Proof-Logging Symbolic Execution                                             |
+| 14:50–15:05 | Wei-Lin Wu     | cake_pb_cp: A Formally Verified Checker for Proof-Logging Constraint Solvers |
+| 15:05–15:20 | Zhendong Ang   | Scenario Proofs for Verification of Distributed Protocols                    |
+| 15:20–15:35 | Linard Arquint | Foundational Automation for Security Proofs                                  |
 
 </div>
 
