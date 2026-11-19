@@ -83,6 +83,8 @@ _Lunch will not be provided_, but there are many options nearby.
 
 #### Session 1: Language Design and Semantics
 
+(chair: [Michael D. Adams](https://michaeldadams.org/), National University of Singapore)
+
 **09:35–10:20**
 
 <div class="program-table program-detail" markdown="1">
@@ -135,6 +137,8 @@ _Lunch will not be provided_, but there are many options nearby.
 **15:35–16:05** — Coffee break
 
 #### Session 4: Programming Abstractions and Proof Tools
+
+(chair: [Yunjeong Lee](https://www.leeyunjeong.com/), Singapore University of Technology and Design)
 
 **16:05–17:20**
 
