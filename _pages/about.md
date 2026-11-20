@@ -101,6 +101,8 @@ _Lunch will not be provided_, but there are many options nearby.
 
 #### Session 2: Program Analysis and Testing
 
+(chair: [Xiaofei Xie](https://xiaofeixie.bitbucket.io/), Singapore Management University)
+
 **10:50–12:05**
 
 <div class="program-table program-detail" markdown="1">
@@ -118,6 +120,8 @@ _Lunch will not be provided_, but there are many options nearby.
 **12:05–14:05** — Lunch and informal discussions (_lunch will not be provided_, but there are many options nearby)
 
 #### Session 3: Semantics and Mechanized Verification
+
+(chair: [Zilin Chen](https://zilinc.github.io/), Nanyang Technological University)
 
 **14:05–15:35**
 
